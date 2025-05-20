@@ -1,6 +1,5 @@
 //Obtememos las referencias a los elementos HTML
 const boton = document.getElementById("boton_calcular");
-const IMC = document.getElementById("imc_usuario");
 
 //Conecto el boton a una funcion flecha
 boton.addEventListener("click",() => { 
